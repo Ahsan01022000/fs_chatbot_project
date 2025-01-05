@@ -19,35 +19,27 @@ Hugging Face Transformers
 Google Gemini API Key
 Installation
 Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/fullstack-web-chatbot.git
+git clone https://github.com/Ahsan01022000/fullstack-web-chatbot.git
 cd fullstack-web-chatbot
-Create a Virtual Environment:
 
-bash
-Copy code
+Create a Virtual Environment:
 python -m venv myenv
 source myenv/bin/activate   # On Windows use `myenv\Scripts\activate`
-Install Dependencies:
 
-bash
-Copy code
+Install Dependencies:
 pip install -r requirements.txt
-Running the Application
+
+Running the Application:
 Set Up the API Key: Ensure you have your Gemini API key.
 
 Run the Streamlit App:
-
-bash
-Copy code
 streamlit run app.py
-Interact with the ChatBot:
 
+Interact with the ChatBot:
 Enter your Gemini API key in the sidebar.
 Ask any question related to the Full Stack Academy website.
 View the generated answer.
+
 Code Explanation
 1. Streamlit Setup
 Title and Sidebar: The app has a title and a sidebar for the Gemini API key input.
