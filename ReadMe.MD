@@ -19,7 +19,7 @@ Hugging Face Transformers
 Google Gemini API Key
 Installation
 Clone the Repository:
-git clone https://github.com/Ahsan01022000/fullstack-web-chatbot.git
+git clone : https://github.com/Ahsan01022000/fs_chatbot_project
 cd fullstack-web-chatbot
 
 Create a Virtual Environment:
